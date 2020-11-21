@@ -40,7 +40,8 @@
     },
     "Slug": {
       "type": "uid",
-      "targetField": "name"
+      "targetField": "name",
+      "private": true
     },
     "education": {
       "type": "string"
